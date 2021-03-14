@@ -128,3 +128,6 @@ hr:hover{
 .a {
     margin: 5px 4px;
 }
+a:hover {
+    color: #EAF6F6;
+}
